@@ -1,5 +1,5 @@
 ---
-title: "scriptlanguage"
+title: "스크립트언어"
 layout: archive
 permalink: /scriptlanguage
 ---
