@@ -2,6 +2,8 @@
 title: "스크립트언어"
 layout: archive
 permalink: /scriptlanguage
+author_profile: true
+sidebar_main: true
 ---
 
 
