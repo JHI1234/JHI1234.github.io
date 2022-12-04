@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Archive"
+  - title: "About"
     url: /year-archive/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -14,9 +14,11 @@ sidebar-category:
   - title: "School"
     children:
       - title: "스크립트언어"
-        url: "/scriptlang"
+        url: "/blog"
+
       - title: "php"
         url:  "/php"
+        
       - title: "C#"
         url:  "/csharp"
   - title: "ETC"
