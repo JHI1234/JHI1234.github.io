@@ -1,5 +1,5 @@
 ---
-title: "python_quiz"
+title: "두근두근 파이썬"
 layout: archive
 permalink: /python_quiz
 author_profile: true

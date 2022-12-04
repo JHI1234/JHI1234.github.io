@@ -18,7 +18,7 @@ sidebar-category:
       - title: "php"
         url:  "/php"
       - title: "C#"
-        url:  "/C#"
+        url:  "/csharp"
   - title: "ETC"
     children:
       - title: "두근두근 파이썬"

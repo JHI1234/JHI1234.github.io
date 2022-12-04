@@ -1,5 +1,5 @@
 ---
-title: "scriptlang"
+title: "스크립트언어"
 layout: archive
 permalink: /scriptlang
 author_profile: true
