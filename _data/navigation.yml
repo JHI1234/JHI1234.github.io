@@ -14,4 +14,4 @@ sidebar-category:
   - title: "School"
     children:
       - title: "스크립트언어"
-        url: "/스크립트언어"
+        url: "/scriptlang"

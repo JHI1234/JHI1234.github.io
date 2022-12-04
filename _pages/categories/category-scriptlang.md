@@ -1,7 +1,7 @@
 ---
-title: "School"
+title: "scriptlang"
 layout: archive
-permalink: /스크립트언어
+permalink: /scriptlang
 author_profile: true
 sidebar_main: true
 ---
