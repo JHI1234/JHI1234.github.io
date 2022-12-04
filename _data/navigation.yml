@@ -1,8 +1,7 @@
 # main links
-main:
-  - title: "School"
-    url: /school/
-  - title: "ETC"
-    url: /etc/    
-  - title: "About"
-    url: /about/
+docs:
+  - title: School
+    children:
+      - title: "스크립트언어"
+        url: /스크립트언어/
+        category: "스크립트언어"
