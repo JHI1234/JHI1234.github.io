@@ -10,7 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  sidebar-category:
+sidebar-category:
   - title: "School"
     children:
       - title: "스크립트언어"
