@@ -11,11 +11,15 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-category:
-  - title: "카테고리"
+  - title: "School"
     children:
       - title: "스크립트언어"
         url: "/scriptlang"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "php"
+        url:  "/php"
+      - title: "C#"
+        url:  "/C#"
+  - title: "ETC"
+    children:
+      - title: "두근두근 파이썬"
+        url: "/python_quiz"
