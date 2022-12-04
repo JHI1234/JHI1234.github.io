@@ -14,14 +14,18 @@ sidebar-category:
   - title: "School"
     children:
       - title: "스크립트언어"
-        url: "/blog"
+        url: "/scriptlanguage"
+        category: "scriptlanguage"
 
       - title: "php"
         url:  "/php"
+        category: "php"        
         
       - title: "C#"
         url:  "/csharp"
+        category: "csharp"        
   - title: "ETC"
     children:
       - title: "두근두근 파이썬"
         url: "/python_quiz"
+        category: "python_quiz"
