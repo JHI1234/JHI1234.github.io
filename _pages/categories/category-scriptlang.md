@@ -1,7 +1,7 @@
 ---
 title: "scriptlang"
 layout: archive
-permalink: /scriptlang/
+permalink: /scriptlang
 author_profile: true
 sidebar_main: true
 ---
