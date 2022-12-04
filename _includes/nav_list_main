@@ -41,7 +41,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "python_quiz" %}
-                        <li><a href="/categories/algorithm" class="">두근두근 파이썬 해설 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/python_quiz" class="">두근두근 파이썬 해설 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
