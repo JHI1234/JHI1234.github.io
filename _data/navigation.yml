@@ -1,12 +1,8 @@
 # main links
 main:
-  - title: "Archive"
-    url: /year-archive/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "School"
+    url: /school/
+  - title: "ETC"
+    url: /etc/    
+  - title: "About"
+    url: /about/
