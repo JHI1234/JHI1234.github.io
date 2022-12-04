@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-category:
-  - title: "School"
+  - title: "✏School"
     children:
       - title: "스크립트언어"
         url: "/scriptlanguage"
