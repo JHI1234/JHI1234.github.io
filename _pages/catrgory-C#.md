@@ -1,11 +1,11 @@
 ---
-title: "두근두근 파이썬"
+title: "csharp"
 layout: archive
-permalink: /python_quiz
+permalink: /csharp
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.python_quiz %}
+{% assign posts = site.categories.csharp %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
