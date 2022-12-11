@@ -18,7 +18,7 @@
 <span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=next-dot-js&logoColor=white"/></span><br/> -->
+<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=next-dot-js&logoColor=white"/></span> -->
 - Backend : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/></span>
@@ -29,7 +29,7 @@
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span><br/> -->
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span><br/>
 - And what else I can do is... : <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white"/></span>
@@ -41,6 +41,5 @@
 ## ✏️ Blog For Learning - <a href="https://jhi1234.github.io/">Here</a>
 
 ## 📝 Portfolio Website - <a href="https://jhi1234.github.io/myportfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
-##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.
-##### 인적사항, 기술 스택, 경력 및 자격 사항, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
+##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.<br>인적사항, 기술 스택, 경력 및 자격 사항, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
 
