@@ -1,8 +1,7 @@
 # Welcome To My Portfolio Website!
 
-
+![JHI1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHI1234&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=JHI1234&layout=compact&theme=dracula)
-![JHI1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHI1234&show_icons=true&theme=radical)
 
 ## 👩‍💻 Personal Info
 - Jeong Hyein
