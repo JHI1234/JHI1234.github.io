@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26)
 # Welcome To My Gitblog!
 
 ![JHI1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHI1234&show_icons=true&theme=radical)<br>
@@ -43,3 +44,4 @@
 ## 📝 Portfolio Website - <a href="https://jhi1234.github.io/myportfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
 ##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.<br>인적사항, 기술 스택, 경력 및 자격 사항, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&section=footer)
